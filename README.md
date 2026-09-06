@@ -4,9 +4,11 @@ Convert images and video frames into ASCII portraits, binary art and animated Ma
 
 [Node reference](docs/NODES.md) · [Example workflows and results](examples/README.md) · [Publishing guide](PUBLISHING.md)
 
-![Actual demo output](examples/results/demo.png)
+<!-- MSCH SHOWCASE -->
+[![MSCH Code Matrix showcase](examples/showcase/outputs/ascii_portrait_green_00002_.png)](examples/showcase/README.md)
 
-[Play / download the rendered demo](examples/results/demo.mp4)
+**[View the showcase: videos, images and workflows](examples/showcase/README.md)**
+<!-- /MSCH SHOWCASE -->
 
 ## Included nodes
 
