@@ -1,0 +1,19 @@
+[project]
+name = "msch-code-matrix"
+version = "0.1.0"
+description = "Convert images and video frames into ASCII portraits, binary art and animated Matrix-style glyph patterns."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = ["numpy", "Pillow", "torch"]
+
+[project.urls]
+Repository = "https://github.com/mariobilly/msch-code-matrix"
+Documentation = "https://github.com/mariobilly/msch-code-matrix/blob/main/docs/NODES.md"
+"Bug Tracker" = "https://github.com/mariobilly/msch-code-matrix/issues"
+
+[tool.comfy]
+# Set to the publisher ID you own at registry.comfy.org before publishing.
+PublisherId = ""
+DisplayName = "MSCH Code Matrix"
+
