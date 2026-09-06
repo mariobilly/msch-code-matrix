@@ -13,7 +13,6 @@ Documentation = "https://github.com/mariobilly/msch-code-matrix/blob/main/docs/N
 "Bug Tracker" = "https://github.com/mariobilly/msch-code-matrix/issues"
 
 [tool.comfy]
-# Set to the publisher ID you own at registry.comfy.org before publishing.
-PublisherId = ""
+PublisherId = "mariobilly"
 DisplayName = "MSCH Code Matrix"
 
